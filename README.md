@@ -5,5 +5,5 @@ An implementation of an object dimension calculator using Python, Augmented Real
 ## For Images use the below guide
 The python file named as "ImageObjectDetector.py" must be executed to perform the dimension calculation of objects.
 
-# For Videos use the below guide
+## For Videos use the below guide
 The python file named as "VideoObjectDetector.py" must be executed to perform object dimension calculation in real time.
